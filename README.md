@@ -1,0 +1,2 @@
+# Climate-sensitivity-of-end-use-electricity-consumption-in-Florida-United-States
+My analyses was implemented for the state of Florida, one of the most energy intensive states with geographic and demographic vulnerability to climatic change. I leveraged non-linear statistical learning methods to develop predictive models for residential and commercial electricity usage to understand the relationship between weather, climate and electric power consumption.
