@@ -2,7 +2,7 @@
 My analyses was implemented for the state of Florida, one of the most energy intensive states with geographic and demographic vulnerability to climatic change. I leveraged various Linear and  non-linear statistical learning methods to develop predictive models for residential and commercial electricity usage to understand the relationship between weather, climate and electric power consumption.
 
 
-#Data Source
+# Data Source
 The data on end use electricity consumption, climate and weather, and socio-economic information was obtained from various publicly available data sources such as U.S. Energy Information Administration (EIA), National Oceanic and Atmospheric Administration (NOAA), National Climatic Data Center (NCDC) and U.S Department of Labor, Bureau of Labor Statistics. 
 
 
@@ -11,7 +11,7 @@ The data on end use electricity consumption, climate and weather, and socio-econ
 
 
 
-References
+# References
 [1] S.Mukhopadhyay,R.Nateghi,Climatesensitivityofend-useelectricityconsumptioninthebuiltenvironment:Anappli-
 cation tothestateofFlorida,UnitedStates,Energy128(2017)688–700. http://dx.doi.org/10.1016/j.energy.2017.04.034.
 
