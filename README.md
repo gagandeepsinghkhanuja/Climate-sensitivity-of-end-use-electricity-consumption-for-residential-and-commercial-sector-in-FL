@@ -1,5 +1,16 @@
-# Climate-sensitivity-of-end-use-electricity-consumption-for-residential-and-commercial-sector-in-Florida-United-States
+# Project Details :
+
 My analyses was implemented for the state of Florida, one of the most energy intensive states with geographic and demographic vulnerability to climatic change. I leveraged various linear and  non-linear statistical learning methods to develop predictive models for residential and commercial electricity usage to understand the relationship between weather, climate and electric power consumption.I have assessed the models performance on the basis of goodness of fit and predictive accuracy to select the best model based on both generalizabilty and the ability to capture structure of data. The selected models were then used to understand the climate sensitivity of load in both residential and commercial sectors. 
+
+The detailed implementation,results,predictions and analysis has been discussed in the project report along with supporting document. Please check the available PDF files uploaded along with the codes. 
+
+Tools and Languages I used for this Project : Tableau, R , R Shiny. 
+
+# Contact Details :
+For any questions, you can reach out to me at gkhanuja@purdue.edu
+
+
+
 
 
 # Data Source
