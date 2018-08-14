@@ -1,8 +1,13 @@
 # Project Details :
 
+There were three projects in the Energy sector I worked on, during Spring 2018 under the guidance of Professor 
+Roshanak (Roshi) Nateghi. I have tried working on each one of them differently. In other projects I have made use of Tableau and R Shiny as well. 
+
 My analyses was implemented for the state of Florida, one of the most energy intensive states with geographic and demographic vulnerability to climatic change. I leveraged various linear and  non-linear statistical learning methods to develop predictive models for residential and commercial electricity usage to understand the relationship between weather, climate and electric power consumption.I have assessed the models performance on the basis of goodness of fit and predictive accuracy to select the best model based on both generalizabilty and the ability to capture structure of data. The selected models were then used to understand the climate sensitivity of load in both residential and commercial sectors. 
 
 The detailed implementation,results,predictions and analysis has been discussed in the project report along with supporting document. Please check the available PDF files uploaded along with the codes. 
+
+The dataset wasn't as huge as the other datasets. It comprised of only 300 instances but had 35 attributes. 
 
 Tools and Languages I used for this Project : Tableau, R , R Shiny. 
 
